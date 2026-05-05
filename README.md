@@ -9,6 +9,6 @@ My technical approach is deeply hands-on, emphasizing a proactive discovery of v
 - Certifications: Earned 8 GIAC certifications: GFACT, GCIH, CSEC, GPYC, GMLE, GISF, GICSP, and GCIA.
 - CTF Excellence: Ranked 88th out of 7,520+ competitors (Top 1.2%) in the [NCL Spring 2026 Practice Game](Spring-2026-Practice-Score-Report.png), achieving 100% accuracy in OSINT, Cryptography, and Password Cracking.
 - Individual Competition: Placed in the top 8% of the [NCL Individual Game](Spring-2026-Individual-Score-Report.png) (542nd/7,000+), maintaining over 90% accuracy in Web Application Exploitation and Enumeration.
-- Home Lab Operations: Engineered a self-hosted honeypot and SIEM environment using DShield, Cowrie, Zeek, and Suricata to monitor live traffic and attack patterns.
+- Home Lab Operations: Engineered a cloud managed honeypot and self-hosted SIEM environment using Security Onion, DShield, Cowrie, Zeek, Softflow and Suricata to monitor live traffic and attack patterns.
 - Security Automation: Proficient in scripting for security tasks using Python, Bash, and C# to automate log analysis and system hardening.
 - Network Defense: Extensive background in network protocols and infrastructure, now applied to securing critical systems and industrial control environments.
